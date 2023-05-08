@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Sabaton-Gansolis",
+    "slug": "sabaton-gansolis",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c187630b-84c7-46b6-8234-07fb4dfc8461"
+      }
+    },
+    "owner": "alexford"
+  },
+  "name": "Sabaton-Gansolis"
+}
